@@ -1,0 +1,8 @@
+Run IK in OpenSim and save the .mot files.
+open .mot files in excel and save as .xlsx.
+then run the Xlsx2Mat.m file to reduce the data from ~170 columns to the 17 columns (i.e. the joint motions that are important).
+
+
+
+Navid Shirzad
+March 30th, 2015

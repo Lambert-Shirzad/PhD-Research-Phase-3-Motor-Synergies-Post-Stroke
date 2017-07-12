@@ -1,0 +1,8 @@
+1. Double click Preprocessing.ewp
+2. Drag and drop the hpf files you want to convert (or use File->Open). 
+3. Left click on one of the hpd files.
+4. Tools->Export to Text File
+5. Define a name and location for the csv file.
+6. Repeat steps 3-5 for all hpf files.
+
+2016-11-23 Navid Lambert-Shirzad
